@@ -1,5 +1,5 @@
 # E-commerce customers automatic classification by ML/AI
-Customers unsupervised grouping from the Kaggle dataset
+Customers unsupervised grouping from the Brazilian e-commerce company Olist dataset
 
 https://www.kaggle.com/olistbr/brazilian-ecommerce
 
