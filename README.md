@@ -35,4 +35,6 @@ Calculations have been carried out using rapids.ai, running on Google COLABS GPU
 Python code can be found in the OList python notebooks
 
 [part 1: data cleaning and exploration](https://github.com/opsabarsec/E-commerce-customers-automatic-clustering/blob/master/OList_part1.ipynb)
-[part 2: unsupervised clustering of the customers] (https://github.com/opsabarsec/E-commerce-customers-automatic-clustering/blob/master/OList_part2.ipynb)
+
+[part 2: unsupervised clustering of the customers](https://github.com/opsabarsec/E-commerce-customers-automatic-clustering/blob/master/OList_part2.ipynb)
+
