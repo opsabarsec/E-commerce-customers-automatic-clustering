@@ -26,10 +26,13 @@ https://www.kaggle.com/olistbr/brazilian-ecommerce
 
 For details, you can consult the full [presentation describing target achievement to OList Marketing team](https://github.com/opsabarsec/E-commerce-customers-automatic-clustering/blob/master/segmentation_clients_fr.pdf)
 
-Below an illustration of clusters generated using the K-Means alghorithm and represented after projection on the two main principal components
+Below an illustration of 4 clusters generated using the K-Means alghorithm and represented after projection on the two main principal components
 
 ![clusters](cluster.png)
 
+Test data fit well into those clusters, indicating a robust model. The evaluation of pipeline stability over time showed that maintenance is not needed at least for a year.
+
+![chisquare](chisquare.png)
 Calculations have been carried out using rapids.ai, running on Google COLABS GPUs
 
 Python code can be found in the OList python notebooks
